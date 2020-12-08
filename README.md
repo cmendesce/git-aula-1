@@ -17,6 +17,11 @@ Para executar os testes, use o `npm`
 npm test
 ```
 
+```javascript
+var a = 1;
+
+```
+
 * Item 1
 * Item 2
 
