@@ -1,7 +1,20 @@
 # git-aula-1
 
+## Funcionalidades
+
+### Algoritmo X
+O algoritmo x faz ...
+
+### Algoritmo Y
+dsdslkdsds 
+sddsdsds
+
+## Como executar os testes
+
+Para executar os testes, use o `npm`
+
 ```shell
-node teste.js
+npm test
 ```
 
 * Item 1
